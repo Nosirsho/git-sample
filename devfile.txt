@@ -1,4 +1,3 @@
 <<<<<<< HEAD
 Hello Devcolibri
 Hello first change
-New change
